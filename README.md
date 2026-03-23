@@ -3,7 +3,7 @@
 A test assignment iOS app for cleaning and organizing media files on iPhone.
 
 <p align="center">
-  <img src="847_1x_shots_so.png" width="100%" alt="Smart Cleaner App Screenshots">
+  <img src="847_1x_shots_so.png" width="100%">
 </p>
 
 **Requirements:**
