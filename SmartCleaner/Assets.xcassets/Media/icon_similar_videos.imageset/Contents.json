@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon_similar_videos.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
