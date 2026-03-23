@@ -1,9 +1,7 @@
 # Smart Cleaner — Visual Similarity Search & Media Cleanup
 
 A test assignment iOS app for cleaning and organizing media files on iPhone.
-
 <img width="1920" height="1440" alt="847_1x_shots_so" src="https://github.com/user-attachments/assets/7644beec-9c82-4427-80f4-f5606631d89c" />
-
 **Requirements:**
 iOS 16+
 SwiftUI 
